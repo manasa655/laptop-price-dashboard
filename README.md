@@ -43,5 +43,5 @@ python src/train_model.py
 * src/ → source code
 
 ## 📸 Dashboard Preview
+<img width="523" height="324" alt="image" src="https://github.com/user-attachments/assets/2a867a9c-aa81-4f96-b769-338848088add" />
 
-(Add screenshot here)
